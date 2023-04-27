@@ -1,0 +1,19 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharld/node-farm.git"
+  },
+  "author": "Djoumessi Yann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dharld/node-farm/issues"
+  },
+  "homepage": "https://github.com/Dharld/node-farm#readme"
+}
